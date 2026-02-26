@@ -23,6 +23,8 @@ The purpose of this repository is to document my learning progress, practical im
 * ✔️ Task 3 – Completed
 * ✔️ Task 4 – Completed
 * ✔️ Task 5 – Completed
+* ✔️ Task 6 – Completed
+* ✔️ Task 7 – Completed
 * 🔄 More tasks will be added as they are assigned and completed
 
 I will continue updating this repository regularly as I progress through the internship.
