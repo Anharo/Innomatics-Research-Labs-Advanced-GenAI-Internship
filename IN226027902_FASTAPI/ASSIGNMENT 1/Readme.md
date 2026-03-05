@@ -1,4 +1,4 @@
-### FastAPI Assignment – Endpoint Creation and Testing
+## FastAPI Assignment – Endpoint Creation and Testing
 
 In this assignment, I learned how to create API endpoints using **FastAPI** and tested them using the built-in **Swagger UI**.
 
